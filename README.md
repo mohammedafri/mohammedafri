@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mohammedafri
+- 👋 Hi, I’m afri
 - 👀 I’m interested in Coding and Video/Photo Editing
 - 🌱 I’m currently learning Html
 - 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to reach me mohammedafri1@gmail.com
 
 <!---
 mohammedafri/mohammedafri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
